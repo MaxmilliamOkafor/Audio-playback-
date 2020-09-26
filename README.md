@@ -21,13 +21,11 @@ Instructions in successfully running my Code in the following steps
 2: Open the Client and Server in Separately in visual studio 
 3: Clean and Build just to ensure it runs smoothly  
 4: After build, First run the SERVER code 
-  
- 
  
 6: Then the client should ask for “USERNAME” and “PASSWORD” which I have provided in the client Folder called “LOGIN DETAILS.txt ”  
   
-7: After successfully you Login it should look like this stating that your Access has been granted   
-Without the exact login “username: LOGIN1234” & “password: 1234” access will certainly be denied 
+7: After successfully Logging in it should prompt "Access has been granted"  
+With the exact login “username: LOGIN1234” & “password: 1234” or access will be denied 
   
  
 8: After this client starts loading the files in the server and in order to retrieve the files you press 
