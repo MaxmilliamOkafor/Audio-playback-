@@ -1,5 +1,19 @@
+AUDIO PLAYBACK PROJECT
+
+This coursework requires you to design and implement a distributed system to support audio playback over an Internet style network similar to Spotify (https://open.spotify.com). The implemented system must provide an audio playback client and an audio file server, suitable for distribution by replication, that communicate over the network. The client will access and download (or stream) audio files from the server/service and allow them to be played back by the user. You will look at and implement solutions for distributing the load of multiple clients across multiple servers through a distribution mechanism of your choice.
+
+The audio playback client should allow a user to:
+•	Connect to a user specified IP address 
+•	Retrieve a list of audio files from the service
+•	Playback a selected audio file
+
+
+
+
+
+
 # Audio-playback-
-README FILE WITH INSTRUCTIONS
+README FILE WITH INSTRUCTIONS TO RUN PROGRAM!!!!
 
 Instructions in successfully running my Code in the following steps 
  
